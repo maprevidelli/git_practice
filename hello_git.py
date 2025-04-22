@@ -7,3 +7,4 @@ if nome == 'marco':
 else:	
 	print(f'{nome} vc cuzão..')
 
+# Geralmente na ramo1 tem um mosquito fdp me atazanando na tela
