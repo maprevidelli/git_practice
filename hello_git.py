@@ -1,5 +1,5 @@
 print(f'Hello Git world!')
-print('Test feito em uma segunda Branch -> ramo1')
+print('Test feito na branch >>>>> Main')
 nome = input('Enter your name please: ')
 nome = nome.lower()
 if nome == 'marco':
@@ -8,3 +8,4 @@ else:
 	print(f'{nome} vc cuzão..')
 
 # Geralmente na ramo1 tem um mosquito fdp me atazanando na tela
+# era a ramo1 mas se tornou a main após vinculo no github
