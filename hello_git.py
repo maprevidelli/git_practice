@@ -7,5 +7,10 @@ if nome == 'marco':
 else:	
 	print(f'{nome} vc cuzão..')
 
+mk_lista = ['Liu Cang', 'Johnny Cage', 'Sub-Zero', 'Scorpion', 'Kano', 'Sonya Blade', 'Raiden', 'Shang-Tsung', 'Goru']
+for lutadores in mk_lista:
+	print(f'{lutadores}')
+	
+
 # Geralmente na ramo1 tem um mosquito fdp me atazanando na tela
 # era a ramo1 mas se tornou a main após vinculo no github
